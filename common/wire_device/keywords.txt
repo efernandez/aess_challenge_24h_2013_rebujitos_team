@@ -1,0 +1,6 @@
+WireDevice      KEYWORD1
+
+readRegister    KEYWORD2
+writeRegister   KEYWORD2
+moveToRegister  KEYWORD2
+
